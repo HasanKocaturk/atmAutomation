@@ -1,0 +1,5 @@
+A record is created by entering the name and surname and transferred to the file. (Register)
+You log in to the system by entering your name and surname. (Sign in)
+
+The file path and temperature path are changed from a single place.
+!!!!!!!It must be replaced if it is to work.
